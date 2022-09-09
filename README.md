@@ -23,6 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <h2>📊 Profile stats</h2>
 
 ![Phung Bui's GitHub Stats](https://github-readme-stats-phungvhbui.vercel.app/api?username=phungvhbui&count_private=true&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats-phungvhbui.vercel.app/api/top-langs/?username=phungvhbui&langs_count=5&theme=dark&layout=compact)
 </div>
 
