@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Top Langs](https://github-readme-stats-phungvhbui.vercel.app/api/top-langs/?username=phungvhbui&langs_count=5&theme=dark&layout=compact)
 </div>
 
-⭐. These stats are limited to personal repositories. I am also working with Golang and other technologies.
+⭐ These stats are limited to personal repositories. I am also working with Golang and other technologies.
 
 [linkedin]: https://www.linkedin.com/in/phungvhbui
 [site]: https://phungvhbui.github.io
