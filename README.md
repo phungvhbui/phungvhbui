@@ -8,7 +8,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
-- 🔭 Contributing to build web applications. I write backend services in **Go** and **Java** as well as modern front-ends using **Javascript** (React.js).
+- 🔭 Contributing to build web applications. I mainly write backend services in **Go** and **Java**  with a few modern front-end works using **Javascript** (React.js).
 - 🌱 Improving algorithms and React.js skills; learning Cloud and Software architecture.
 - 💬 Ready to share my experiences about software solutions and technologies.
 - 🤝 Open to new opportunities and challenges. Even when I cannot take on another job at the momment, I would love to expand my professional network.
