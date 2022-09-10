@@ -2,18 +2,17 @@
   <h1>Hi there, I'm Phung Bui-Vu-Hieu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-phungvhbui-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phungvhbui)][linkedin]
-[![Website Badge](https://img.shields.io/badge/-phungvhbui.github.io-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://phungvhbui.github.io)][site]
+[![Website Badge](https://img.shields.io/badge/-phungvhbui.dev-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://phungvhbui.dev)][site]
 
 </div>
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
 - 🔭 Working as a Software Engineer and contributing to backend (mainly) and frontend for building web applications using **Go, Java and Javascript (React.js)**.
-- 🌱 Improving React.js skill; learning Cloud and Software architecture.
+- 🌱 Improving algorithms and React.js skills; learning Cloud and Software architecture.
 - 💬 Ready to share my experiences about software solutions and technologies.
 - 🤝 Open to new opportunities and challenges. Even when I cannot take on another job at the momment, I would love to expand my professional network.
-- 📫 Check my contact info at <https://phungvhbui.github.io>.
-- ⚡ I love badminton 🏸 and esport & AAA games 🎮.
+- 📫 Check my contact info at <https://phungvhbui.dev>.
 
 [linkedin]: https://www.linkedin.com/in/phungvhbui
-[site]: https://phungvhbui.github.io
+[site]: https://phungvhbui.dev
